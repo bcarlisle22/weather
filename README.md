@@ -11,6 +11,7 @@ CURRENT WEATHER: Display of current weather conditions for the searched city.
 7-DAY FORECAST: Forecast for the next 7 days, providing users with an overview of upcoming weather patterns.
 ASYNC PAGINATE: Utilizes asynchronous pagination to enhance user input by predicting or auto-completing city names.
 <br>
+<br>
 TECHNOLOGIES
 <br>
 <br>
