@@ -14,7 +14,6 @@ ASYNC PAGINATE: Utilizes asynchronous pagination to enhance user input by predic
 <br>
 TECHNOLOGIES
 <br>
-<br>
 REACT: A JavaScript library for building user interfaces.
 WEATHER API: Integration with a weather API to fetch real-time weather data.
 ASYNC PAGINATION: Implementation of asynchronous pagination for efficient city search functionality.
