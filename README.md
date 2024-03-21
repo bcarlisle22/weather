@@ -17,3 +17,4 @@ TECHNOLOGIES
 REACT: A JavaScript library for building user interfaces.
 WEATHER API: Integration with a weather API to fetch real-time weather data.
 ASYNC PAGINATION: Implementation of asynchronous pagination for efficient city search functionality.
+![](weather.app.img)
