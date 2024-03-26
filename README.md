@@ -1,4 +1,8 @@
-WEATHER APP 
+Weather App <br>
+<hr>
+
+```React``` ```Javascript``` ```CSS```
+<br>
 <br>
 This project is a weather application built using React, allowing users to search for cities and display the current weather along with a 7-day forecast. 
 The application utilizes asynchronous pagination to predict or auto-complete user input cities, providing a seamless and efficient user experience.
